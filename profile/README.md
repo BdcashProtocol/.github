@@ -4,7 +4,7 @@
 The best decentralization to cash or the BDCASH is a cryptocurrency forked from the pivx code, but which has its own protocol that makes it possible to use our ecosystem to create non-fungible tokens (NFT), Tokens and Dapps at a relatively fee, super low compared to other larger, well-known projects.
 
 
-<img style="float:center;" src="https://raw.githubusercontent.com/BdcashProtocol/bdcash-mediakit/main/cole%C3%A7%C3%A3o/Sem%20t%C3%ADtulo-1.png"></br>
+<img style="float:center;" src="https://raw.githubusercontent.com/BdcashProtocol/bdcash-mediakit/main/logo-bdcash/main.png"></br>
 
 ### Social Network:
  [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=Follow&color=blue)](https://twitter.com/bdcashprotocol) 
