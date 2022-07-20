@@ -20,7 +20,5 @@ The best decentralization to cash or the BDCASH is a cryptocurrency forked from 
 [![CoinMarketCap](https://img.shields.io/static/v1?label=CoinMarketCap&message=Check&color=blue)](https://coinmarketcap.com/currencies/bdcash/) 
 [![CoinGecko](https://img.shields.io/static/v1?label=CoinGecko&message=Check&color=green)](https://coingecko.com/coins/bigdata-cash/) 
 [![Coinpaprika](https://img.shields.io/static/v1?label=Coinpaprika&message=Check&color=red)](https://coinpaprika.com/coin/bdcash-bdcash/) 
-[![Coinlore](https://img.shields.io/static/v1?label=Coinlore&message=Check&color=9cf)](https://www.coinlore.com/coin/bdcash)
-[![Coinlib](https://img.shields.io/static/v1?label=Coinlib&message=Check&color=Blueblack)](https://coinlib.io/coin/BDCASH/BigDataCash/) 
-[![LivecoinWatch](https://img.shields.io/static/v1?label=LivecoinWatch&message=Check&color=greenblack)](https://www.livecoinwatch.com/price/Bdcash-BDCASH) 
+[![Nomics](https://img.shields.io/static/v1?label=Coinlore&message=Check&color=red)](#)
 
